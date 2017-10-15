@@ -1,0 +1,52 @@
+android studio --> 
+
+kotlin-->
+android studio 3.0 version
+
+kotlin plugin install android studio
+
+apache company
+
+java language --> open source
+open source--> freely install, source code, modify, redistribute 
+
+
+
+
+Backend--> Kotlin --> 
+syntax
+
+variable declaration
+
+
+OOPS features
+
+App development
+
+
+Android Category
+
+app --> directory
+--> manifests --> AndroidManifest file
+total no. of activities, app name, app theme, app style, app icon, permissions required by application, etc. 
+
+--> java--> 3 sub-directories
+2 directories--> for testing our code
+1 directory with the name of our package --> code or java or kotlin
+
+--> res --> non-coded data--> 
+sub-directories--> 
+
+--> drawable --> handle images or handle extra desing files, handle text file or .mp3 file 
+
+--> layout --> layout for your activity
+
+--> mipmap --> icons of application
+
+--> values --> colors.xml(application color), string.xml(text use), styles(theme of application), dimens(margins , text size, )
+
+--> menu
+
+--> raw
+
+gradle scripts --> gradle files --> imp. --> application name, app name, app_id, API level, 
