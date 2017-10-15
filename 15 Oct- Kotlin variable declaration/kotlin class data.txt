@@ -1,0 +1,30 @@
+build.gradle --> 2 files
+
+
+1 for module
+1 for project
+
+class 
+
+variable declare
+
+
+Q) swap values with third variable
+Q) swap values without third variable
+
+Q) calculate simple interest
+Q) calculate area of rectangle
+
+
+//identifier --> variable name, constant name, method name, class name, etc
+
+// Keywords --> predefined meaning or speacil purpose
+// constants --> having fix value that cannot be changed
+
+// variables --> each variable has a value and a type
+
+// datatypes --> primitive types --> 
+Int, Char, Float, Long, Double, String
+
+// decimal value --> by default as Double : explicitly define
+// non-decimal value --> by default as Int : explicitly define
