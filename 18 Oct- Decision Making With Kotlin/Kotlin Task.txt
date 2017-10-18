@@ -1,0 +1,46 @@
+Q1) WAP to calculate net salary of employee, take basic salary of employee and calculate
+
+HRA 30% of basic salary, 
+
+DA 20% of the basic salary, 
+
+TA 10% of the basic salary and 
+
+Net salary is sum up of basic salary + allowances-pf.
+
+Pf is 1400 fix. 
+
+Q2) Find out entered number is Positive or Negative Number.
+
+
+Q3) Find out the grade , according to given percentage of the user.
+
+1)  >=90 print ‘A’ Grade
+2)  89 to 70 print ‘B’ Grade
+3)  69 to 50 print ‘C’ Grade
+4)  <50 print ‘D’ Grade 
+
+
+Q4) A Insurance Company have a following polices (Insurance Premium Calculation program)
+
+User Input :
+
+a.	Person Name
+b.	Person gender
+c.	Person Age
+d.	Person city (Metro or Non-Metro)
+
+
+Conditions:
+
+--> if person age is 25 to 35 and gender is male and city is metro , Output is Premium is 6%
+
+--> if person age is 25 to 40 and gender is male and city is non-metro, Output is Premium 4%
+
+--> if person age is 25 to 42 and gender is female and city is Metro, Output is Premium 3%
+
+--> if person age is 25 to 45 and gender is female and city is non-metro , output is Premium 2%
+
+else
+
+ Not Insured
