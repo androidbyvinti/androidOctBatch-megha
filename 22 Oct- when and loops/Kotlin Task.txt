@@ -1,0 +1,20 @@
+
+1. WAP to print the sum of digit of a number.
+
+2. WAP to print the reverse of a number.
+
+3. WAP to check whether the entered no. is prime or not.
+
+4. WAP to check whether the entered no. is Armstrong or not.
+
+5. WAP to find the square root of a no.
+
+6. WAP to count prime number between 1 to 100.
+
+7. WAP to print and count even number and odd number between 1 to 100.
+
+8. WAP to print sum of  1+2+3+.............................n 
+
+9. WAP to print sum of 12+22+32+..........................n2 
+
+10. Now I want to improve the functionality of the “Insurance Premium Calculation program”. Take the input of user details like name, gender, city and age, until user enters “No”. If user enters ‘No’, then exit from the loop, else continue in the loop. Take input again and check if eligibility for the insurance is there or not , also count how many users are eligible and how many are not.	
