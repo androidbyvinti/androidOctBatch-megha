@@ -1,0 +1,58 @@
+Layouts :
+
+--> xml --> front-end -->
+Layout --> multiple widgets --> 2 button
+
+Layout--> ViewGroup--> set collection of views(widgets or collection of other viewgroups) into single component
+
+Layout--> widgets and others Layouts as well
+
+Widgets--> View class--> 
+
+
+Layouts and widgets--> mandatory--> 
+
+layout_width and layout_height --> match_parent or wrap_content or hardcode_value --> measuring unit --> dp/sp/in/mm/etc.
+
+
+RelativeLayout--> Predefined class 
+
+align or position widgets acc. to the relative position of other child and parent
+
+Adv-->
+--> Easy to use and easy to position widgets
+--> More no of attributes--> easy drag and drop
+--> avoid nested layouts
+--> best suited for complex layouts
+
+Dis-->
+
+--> dependency--> one widget position changed --> 
+
+Default pos--> (0, 0) --> Left = 0, Top = 0
+
+
+--> API-15 or below --> right and end
+
+
+--> LinearLayout --> Predefined class
+
+--> align or position all widgets either in horizontal manner or in vertical manner
+
+--> No drag and drop is available
+
+
+--> orientation= vertical or horizontal(by default)
+
+--> layout_gravity --> set on the complete layout or on the complete widget
+--> gravity --> inside the layout or inside the widget
+
+--> layout_weight
+
+
+
+
+
+
+
+
