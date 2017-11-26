@@ -1,0 +1,18 @@
+Android --> Intent Predefined class provided by android
+
+Switch from one activity to another activity, to pass data between activities or service call like camera access or location access, bluetooth or wi-fi, services.
+
+
+2 types of Intent:
+
+--> Implicit intent: automatically--> less piece of instructions
+
+outside the app data interchange
+
+
+--> Explicit intent: forcefully
+2 things to specify--> source --> current activity to destination --> destination activity
+
+inside the app:
+ 
+switch from one activity to another or data pass
