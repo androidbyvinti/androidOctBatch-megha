@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorAlizarin</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="CustomTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:gravity">right|center_vertical</item>
+        <item name="android:paddingEnd">@dimen/paddingEnd</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorAlizarin</item>
+        <item name="android:textSize">@dimen/resultTextViewSize</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_width">match_parent</item>
+
+    </style>
+
+</resources>
